@@ -8,10 +8,7 @@ The user is able to add funds to the database with a button after filling out th
 
 
 ## Screenshot
-![Screenshot](./public/images/HW18.png)
+![image](./public/images/HW18.png)
 
 ## Links
-https://danshelly.github.io/Progressive-Budget/
-https://github.com/DanShelly/Progressive-Budget
-https://danshelly.github.io/
-https://dashboard.heroku.com/apps/sleepy-sierra-71367
+https://sleepy-sierra-71367.herokuapp.com/
